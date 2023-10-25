@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb://user2002:qcQBr2cthN7qQhEp@ac-tce47ce-shard-00-00.as7ez8o.mongodb.net:27017,ac-tce47ce-shard-00-01.as7ez8o.mongodb.net:27017,ac-tce47ce-shard-00-02.as7ez8o.mongodb.net:27017/?ssl=true&replicaSet=atlas-l2xd5k-shard-0&authSource=admin&retryWrites=true&w=majority",
+    
+    "jwtSecret": "mysecrettoken",
+    
+    "githubClientId":"feddcd15914a3704ac02",
+    "githubSecret":"1818e067e1cbcddc2726f29253cfb6118d60a915",
+    "emailCode":"sgonjkyogjhpmvto"
+}
